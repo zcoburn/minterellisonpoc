@@ -1,5 +1,5 @@
 Feature: Minter Ellison POC Automated Testing
-Scenario: POC
+Scenario: Homepage & Search
       Given Go to Test URL
       When  Homepage is displayed
       Then  Validate homepage
