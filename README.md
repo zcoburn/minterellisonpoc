@@ -1,2 +1,2 @@
 # Minter Ellison
-POC Automation testing using Behave for Windows
+POC of BDD automated testing with python selenium
